@@ -1,0 +1,25 @@
+{
+  "name": "Bit Future",
+  "logoURI": "https://ibb.co/dMRffNN",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "Bit Future"
+    ],
+    "timestamp": "2020-12-28T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x278923f10b7e575e129e62b747ee25db6e7bcf6b",
+      "name": "Bit Future",
+      "symbol": "BTVL",
+      "decimals": 13,
+      "logoURI": "https://ibb.co/dMRffNN"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
