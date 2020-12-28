@@ -1,6 +1,6 @@
 {
   "name": "Bit Future",
-  "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/aqcyz-4fwli.svg",
+  "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/av3oo-4yk3j.svg",
   "keywords": [
       "defi",
       "DEFI",
@@ -14,7 +14,7 @@
       "name": "Bit Future",
       "symbol": "BTVL",
       "decimals": 13,
-      "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/aqcyz-4fwli.svg"
+      "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/av3oo-4yk3j.svg"
       }
     ],
     "version": {
